@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chess</string>
+    <string name="action_settings">Settings</string>
+    <string name="tic_tock">TICK-TOCK</string>
+    <string name="clickToBegin">Touch to Begin</string>
+    <string name="pinInstruction">Enter your 4 digit Pin</string>
+</resources>
